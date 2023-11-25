@@ -228,13 +228,13 @@
 
 	<div class="bg-zinc-200 min-h-1/2 sticky top-0">
 		<div
-			class="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-3 h-full w-full p-2 gap-5 py-5 lg:max-w-5xl mx-auto"
+			class="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-3 h-full w-full p-2 gap-5 py-5 lg:max-w-7xl mx-auto"
 		>
 			<div
 				class="group cursor-pointer bg-base shadow h-full w-full rounded flex flex-col justify-start gap-2 relative bg-zinc-900"
 			>
-				<div class=" text-white p-6 -z-[-1]">
-					<div class="relative flex flex-col gap-2">
+				<div class=" text-white p-6 -z-[-1] h-full w-full">
+					<div class="relative flex flex-col gap-5 h-full w-full">
 						<div class="text-3xl">Free</div>
 						<div class="">
 							Culpa qui incididunt ad commodo cupidatat sunt eu. Sit ex officia aliqua qui ad Culpa
@@ -251,15 +251,14 @@
 			<div
 				class="group cursor-pointer bg-base shadow h-full w-full rounded flex flex-col justify-start gap-2 relative bg-zinc-900"
 			>
-				<div class=" text-white p-6 -z-[-1]">
-					<div class="relative flex flex-col gap-2">
+				<div class=" text-white p-6 -z-[-1] h-full w-full">
+					<div class="relative flex flex-col gap-5 h-full w-full">
 						<div class="text-3xl">Hotels</div>
 						<div class="">
 							Culpa qui incididunt ad commodo cupidatat sunt eu. Sit ex officia aliqua qui ad Culpa
-							qui incididunt ad commodo cupidatat sunt eu. Sit ex officia aliqua qui ad Culpa qui
 						</div>
 						<button
-							class="border border-white backdrop-blur hover:bg-fuchsia-700 hover:border-fuchsia-700 active:scale-[99%] transition-colors duration-300 px-4 py-2 text-lg text-white uppercase rounded"
+							class="absolute bottom-0 w-full border border-white backdrop-blur hover:bg-fuchsia-700 hover:border-fuchsia-700 active:scale-[99%] transition-colors duration-300 px-4 py-2 text-lg text-white uppercase rounded"
 							>click me</button
 						>
 					</div>
@@ -269,15 +268,15 @@
 			<div
 				class="group cursor-pointer bg-base shadow h-full w-full rounded flex flex-col justify-start gap-2 relative bg-zinc-900"
 			>
-				<div class=" text-white p-6 -z-[-1]">
-					<div class="relative flex flex-col gap-2">
+				<div class=" text-white p-6 -z-[-1] h-full w-full">
+					<div class="relative flex flex-col gap-5 h-full w-full">
 						<div class="text-3xl">Vehicles</div>
 						<div class="">
 							Culpa qui incididunt ad commodo cupidatat sunt eu. Sit ex officia aliqua qui ad Culpa
 							qui incididunt ad commodo cupidatat sunt eu. Sit ex officia aliqua qui ad Culpa qui
 						</div>
 						<button
-							class="border border-white backdrop-blur hover:bg-fuchsia-700 hover:border-fuchsia-700 active:scale-[99%] transition-colors duration-300 px-4 py-2 text-lg text-white uppercase rounded"
+							class="absolute bottom-0 w-full border border-white backdrop-blur hover:bg-fuchsia-700 hover:border-fuchsia-700 active:scale-[99%] transition-colors duration-300 px-4 py-2 text-lg text-white uppercase rounded"
 							>click me</button
 						>
 					</div>

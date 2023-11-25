@@ -253,12 +253,12 @@
 			>
 				<div class=" text-white p-6 -z-[-1] h-full w-full">
 					<div class="relative flex flex-col gap-5 h-full w-full">
-						<div class="text-3xl">Hotels</div>
+						<div class="text-3xl">Free</div>
 						<div class="">
 							Culpa qui incididunt ad commodo cupidatat sunt eu. Sit ex officia aliqua qui ad Culpa
 						</div>
 						<button
-							class="absolute bottom-0 w-full border border-white backdrop-blur hover:bg-fuchsia-700 hover:border-fuchsia-700 active:scale-[99%] transition-colors duration-300 px-4 py-2 text-lg text-white uppercase rounded"
+							class="border border-white backdrop-blur hover:bg-fuchsia-700 hover:border-fuchsia-700 active:scale-[99%] transition-colors duration-300 px-4 py-2 text-lg text-white uppercase rounded"
 							>click me</button
 						>
 					</div>
@@ -270,13 +270,13 @@
 			>
 				<div class=" text-white p-6 -z-[-1] h-full w-full">
 					<div class="relative flex flex-col gap-5 h-full w-full">
-						<div class="text-3xl">Vehicles</div>
+						<div class="text-3xl">Free</div>
 						<div class="">
 							Culpa qui incididunt ad commodo cupidatat sunt eu. Sit ex officia aliqua qui ad Culpa
 							qui incididunt ad commodo cupidatat sunt eu. Sit ex officia aliqua qui ad Culpa qui
 						</div>
 						<button
-							class="absolute bottom-0 w-full border border-white backdrop-blur hover:bg-fuchsia-700 hover:border-fuchsia-700 active:scale-[99%] transition-colors duration-300 px-4 py-2 text-lg text-white uppercase rounded"
+							class="border border-white backdrop-blur hover:bg-fuchsia-700 hover:border-fuchsia-700 active:scale-[99%] transition-colors duration-300 px-4 py-2 text-lg text-white uppercase rounded"
 							>click me</button
 						>
 					</div>

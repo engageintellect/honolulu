@@ -64,8 +64,8 @@
 	</div>
 
 	<div class="bg-zinc-200">
-		<div class="max-w-7xl mx-auto pt-10">
-			<div class="grid grid-cols-1 sm:grid-cols-2 sticky top-0 z-50">
+		<div class=" pt-10 -mb-10">
+			<div class="grid grid-cols-1 max-w-7xl mx-auto sm:grid-cols-2 sticky top-0 z-50">
 				<div class="relative bg-zinc-900 h-full w-full flex">
 					<img
 						class="h-full w-full object-cover opacity-30"
@@ -89,9 +89,9 @@
 						alt=""
 					/>
 					<div
-						class="absolute top-0 text-white text-xl sm:text-3xl w-full h-full flex justify-center items-center p-6 max-w-xl"
+						class="absolute top-0 text-white text-xl sm:text-3xl w-full h-full flex justify-center items-center p-6"
 					>
-						<div class="flex flex-col">
+						<div class="flex flex-col justify-center items-center w-full">
 							<div>Schedules flights for you.</div>
 						</div>
 					</div>
@@ -104,9 +104,9 @@
 						alt=""
 					/>
 					<div
-						class="absolute top-0 text-white text-xl sm:text-3xl w-full h-full flex justify-center items-center p-6 max-w-xl"
+						class="absolute top-0 text-white text-xl sm:text-3xl w-full h-full flex justify-center items-center p-6"
 					>
-						<div class="flex flex-col">
+						<div class="flex flex-col justify-center items-center w-full">
 							<div>Books your hotels and AirBnBs.</div>
 						</div>
 					</div>
@@ -119,9 +119,9 @@
 						alt=""
 					/>
 					<div
-						class="absolute top-0 text-white text-xl sm:text-3xl w-full h-full flex justify-center items-center p-6 max-w-xl"
+						class="absolute top-0 text-white text-xl sm:text-3xl w-full h-full flex justify-center items-center p-6"
 					>
-						<div class="flex flex-col">
+						<div class="flex flex-col justify-center items-center w-full">
 							<div>AI-powered travel companion.</div>
 						</div>
 					</div>
@@ -131,7 +131,10 @@
 	</div>
 
 	<!-- HEADING -->
-	<div id="heading" class="min-h-1/2 bg-gradient-to-b from-zinc-500 to-zinc-200 sticky top-0 py-10">
+	<div
+		id="heading"
+		class="min-h-1/2 bg-gradient-to-b from-zinc-500 to-zinc-200 sticky top-0 pt-20 pb-10"
+	>
 		<div class="flex flex-col justify-center p-6 max-w-xl lg:max-w-5xl mx-auto drop-shadow">
 			<h1 class="text-3xl lg:text-5xl pb-5 text-white">
 				Aliquip aliqua minim elit minim consectetur incididunt
@@ -225,7 +228,7 @@
 
 	<div class="bg-zinc-200 min-h-1/2 sticky top-0">
 		<div
-			class="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-3 h-full w-full p-2 gap-5 lg:max-w-5xl mx-auto"
+			class="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-3 h-full w-full p-2 gap-5 py-5 lg:max-w-5xl mx-auto"
 		>
 			<div
 				class="group cursor-pointer bg-base shadow h-full w-full rounded flex flex-col justify-start gap-2 relative bg-zinc-900"

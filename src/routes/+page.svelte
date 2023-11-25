@@ -65,7 +65,7 @@
 
 	<div class="">
 		<!-- AI -->
-		<div class="grid grid-cols-1 sm:grid-cols-2">
+		<div class="grid grid-cols-1 sm:grid-cols-2 -z-[-1]">
 			<div class="relative bg-zinc-900 h-full w-full flex">
 				<img
 					class="h-full w-full object-cover opacity-50"
